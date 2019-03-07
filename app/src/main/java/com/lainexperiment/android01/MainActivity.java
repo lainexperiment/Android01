@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements EventObserver {
     private static final String SAVED_INTEGER_LIST = "savedIntegerList";
 
     private NotificationCenter notificationCenter;
-    private MessageContrgit oller messageController;
+    private MessageController messageController;
 
     private Button clearButton;
     private Button refreshButton;
