@@ -1,4 +1,4 @@
-package com.lainexperiment.android01.;
+package com.lainexperiment.android01;
 
 import android.content.Context;
 
